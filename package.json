@@ -13,12 +13,12 @@
     "custom",
     "activity",
     "JB"
-    
   ],
   "author": "Hamza CHAGH",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3",
+    "jquery": "^3.3.1",
     "nforce": "^1.10.0"
   }
 }
