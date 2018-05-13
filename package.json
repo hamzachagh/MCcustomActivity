@@ -1,0 +1,23 @@
+{
+  "name": "custom_activity_journey_builder",
+  "version": "1.0.0",
+  "description": "WEB application for custom activity in Marketing Cloud Journey Builder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "INWI",
+    "MC",
+    "custom",
+    "activity",
+    "JB"
+  ],
+  "author": "Hamza CHAGH",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nforce": "^1.10.0"
+  }
+}
