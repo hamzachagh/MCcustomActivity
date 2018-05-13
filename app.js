@@ -7,4 +7,9 @@ app.get('/salesforceRest', (req , res) => {
     res.send('hellooooo hamzlla chagh !!');
     
   });
+  app.get('/', (req , res) => {
+  
+    res.send('hellooooo hamzlla chagh !!');
+    
+  });
 console.log("hamza chagh")
